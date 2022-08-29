@@ -1,0 +1,504 @@
+{
+	"structs":[
+		{"id": 0  ,
+		"coordinates":[ 0 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 1  ,
+		"coordinates":[ 0 , 3.0 ] ,
+		"panelsNumber":[12,5],
+		"structDirection":"V"},
+		
+		{"id": 2  ,
+		"coordinates":[ 0 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 3  ,
+		"coordinates":[ 0 , 6.0 ] ,
+		"panelsNumber":[12,5],
+		"structDirection":"V"},
+		
+		{"id": 4  ,
+		"coordinates":[ 0 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 5  ,
+		"coordinates":[ 0 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 6  ,
+		"coordinates":[ 0 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 7  ,
+		"coordinates":[ 0 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 8  ,
+		"coordinates":[ 0 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 9  ,
+		"coordinates":[ 0 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 10  ,
+		"coordinates":[ 0.5 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 11  ,
+		"coordinates":[ 0.5 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 12  ,
+		"coordinates":[ 0.5 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 13  ,
+		"coordinates":[ 0.5 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 14  ,
+		"coordinates":[ 0.5 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 15  ,
+		"coordinates":[ 0.5 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 16  ,
+		"coordinates":[ 0.5 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 17  ,
+		"coordinates":[ 0.5 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 18  ,
+		"coordinates":[ 0.5 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 19  ,
+		"coordinates":[ 0.5 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 20  ,
+		"coordinates":[ 1.0 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 21  ,
+		"coordinates":[ 1.0 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 22  ,
+		"coordinates":[ 1.0 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 23  ,
+		"coordinates":[ 1.0 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 24  ,
+		"coordinates":[ 1.0 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 25  ,
+		"coordinates":[ 1.0 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 26  ,
+		"coordinates":[ 1.0 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 27  ,
+		"coordinates":[ 1.0 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 28  ,
+		"coordinates":[ 1.0 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 29  ,
+		"coordinates":[ 1.0 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 30  ,
+		"coordinates":[ 1.5 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 31  ,
+		"coordinates":[ 1.5 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 32  ,
+		"coordinates":[ 1.5 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 33  ,
+		"coordinates":[ 1.5 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 34  ,
+		"coordinates":[ 1.5 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 35  ,
+		"coordinates":[ 1.5 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 36  ,
+		"coordinates":[ 1.5 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 37  ,
+		"coordinates":[ 1.5 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 38  ,
+		"coordinates":[ 1.5 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 39  ,
+		"coordinates":[ 1.5 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 40  ,
+		"coordinates":[ 2.0 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 41  ,
+		"coordinates":[ 2.0 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 42  ,
+		"coordinates":[ 2.0 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 43  ,
+		"coordinates":[ 2.0 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 44  ,
+		"coordinates":[ 2.0 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 45  ,
+		"coordinates":[ 2.0 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 46  ,
+		"coordinates":[ 2.0 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 47  ,
+		"coordinates":[ 2.0 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 48  ,
+		"coordinates":[ 2.0 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 49  ,
+		"coordinates":[ 2.0 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 50  ,
+		"coordinates":[ 2.5 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 51  ,
+		"coordinates":[ 2.5 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 52  ,
+		"coordinates":[ 2.5 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 53  ,
+		"coordinates":[ 2.5 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 54  ,
+		"coordinates":[ 2.5 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 55  ,
+		"coordinates":[ 2.5 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 56  ,
+		"coordinates":[ 2.5 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 57  ,
+		"coordinates":[ 2.5 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 58  ,
+		"coordinates":[ 2.5 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 59  ,
+		"coordinates":[ 2.5 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 60  ,
+		"coordinates":[ 3.0 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 61  ,
+		"coordinates":[ 3.0 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 62  ,
+		"coordinates":[ 3.0 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 63  ,
+		"coordinates":[ 3.0 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 64  ,
+		"coordinates":[ 3.0 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 65  ,
+		"coordinates":[ 3.0 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 66  ,
+		"coordinates":[ 3.0 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 67  ,
+		"coordinates":[ 3.0 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 68  ,
+		"coordinates":[ 3.0 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 69  ,
+		"coordinates":[ 3.0 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 70  ,
+		"coordinates":[ 3.5 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 71  ,
+		"coordinates":[ 3.5 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 72  ,
+		"coordinates":[ 3.5 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 73  ,
+		"coordinates":[ 3.5 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 74  ,
+		"coordinates":[ 3.5 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 75  ,
+		"coordinates":[ 3.5 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 76  ,
+		"coordinates":[ 3.5 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 77  ,
+		"coordinates":[ 3.5 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 78  ,
+		"coordinates":[ 3.5 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 79  ,
+		"coordinates":[ 3.5 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 80  ,
+		"coordinates":[ 4.0 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 81  ,
+		"coordinates":[ 4.0 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 82  ,
+		"coordinates":[ 4.0 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 83  ,
+		"coordinates":[ 4.0 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 84  ,
+		"coordinates":[ 4.0 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 85  ,
+		"coordinates":[ 4.0 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 86  ,
+		"coordinates":[ 4.0 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 87  ,
+		"coordinates":[ 4.0 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 88  ,
+		"coordinates":[ 4.0 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 89  ,
+		"coordinates":[ 4.0 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 90  ,
+		"coordinates":[ 4.5 , 1.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 91  ,
+		"coordinates":[ 4.5 , 3.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 92  ,
+		"coordinates":[ 4.5 , 4.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 93  ,
+		"coordinates":[ 4.5 , 6.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 94  ,
+		"coordinates":[ 4.5 , 7.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 95  ,
+		"coordinates":[ 4.5 , 9.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 96  ,
+		"coordinates":[ 4.5 , 10.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 97  ,
+		"coordinates":[ 4.5 , 12.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 98  ,
+		"coordinates":[ 4.5 , 13.5 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"},
+		
+		{"id": 99  ,
+		"coordinates":[4.5 , 15.0 ] ,
+		"panelsNumber":[7,5],
+		"structDirection":"H"}
+	],
+	"angle":45
+ }
